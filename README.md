@@ -4,6 +4,8 @@
 
 A curated list of research papers and resources dedicated to **Learning from Experience** in AI. This list is organized by the **evolutionary stage** of the agent: from managing memory to abstracting skills, then reinforcement learning, continual learning, and finally to real-world applications.
 
+![learn_from_experience](learn_from_experience.png)
+
 ## Contents
 
 - [0. Foundations & Surveys](#0-foundations--surveys)
